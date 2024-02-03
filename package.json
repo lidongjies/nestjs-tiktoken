@@ -1,0 +1,25 @@
+{
+  "name": "nestjs-tiktoken",
+  "version": "0.0.1",
+  "description": "tiktoken for nest.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lidongjies/nestjs-tiktoken.git"
+  },
+  "keywords": [
+    "tiktoken",
+    "openai",
+    "llm",
+    "nestjs"
+  ],
+  "author": "lidongjies<lidongjies@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lidongjies/nestjs-tiktoken/issues"
+  },
+  "homepage": "https://github.com/lidongjies/nestjs-tiktoken#readme"
+}
